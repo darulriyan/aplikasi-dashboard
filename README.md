@@ -1,6 +1,6 @@
 # Aplikasi Dashboard
 
-Aplikasi Dashboard adalah sebuah aplikasi frontend yang dibangun menggunakan React JS, TypeScript, dan Tailwind CSS. Project ini dibuat sebagai dasar pengembangan dashboard modern yang cepat, ringan, dan mudah dikembangkan. Dengan memanfaatkan Vite sebagai build tool, proses development menjadi lebih efisien dan responsif. Aplikasi ini dibantu penyelesaiannya dengan ChatGPT. Hal ini tidak bisa dipungkiri karena kemajuan teknologi yang semakin canggih sehingga dapat
+Aplikasi Dashboard adalah sebuah aplikasi frontend yang dibangun menggunakan React JS, TypeScript, dan Tailwind CSS. Project ini dibuat sebagai dasar pengembangan dashboard modern yang cepat, ringan, dan mudah dikembangkan. Dengan memanfaatkan Vite sebagai build tool, proses development menjadi lebih efisien dan responsif. Aplikasi ini dibantu penyelesaiannya dengan ChatGPT. Hal ini tidak bisa dipungkiri karena kemajuan teknologi yang semakin canggih sehingga dapat dengan mudah menyelesaikan project lebih cepat.
 
 ---
 
